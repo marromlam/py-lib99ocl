@@ -1,2 +1,5 @@
 lib99ocl/__pycache__
 lib99ocl.egg*
+lib99ocl/version.py
+dist/
+build/
