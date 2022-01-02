@@ -1,0 +1,4 @@
+recursive-include lib99ocl *.h
+recursive-include lib99ocl *.c
+recursive-include lib99ocl *.ocl
+recursive-include lib99ocl *.md
