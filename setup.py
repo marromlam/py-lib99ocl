@@ -87,7 +87,7 @@ class CheckFormatCommand(setuptools.Command):
 # Version of the package. Before a new release is made just the version_list
 # must be changed. The options for the fourth tag are "dev", "alpha", "beta"
 # and "final".
-version_list = [0, 0, 0, 'dev', 10]
+version_list = [1, 0, 0, 'dev', 0]
 
 VERSION = f"{version_list[0]}.{version_list[1]}.{version_list[2]}"
 
